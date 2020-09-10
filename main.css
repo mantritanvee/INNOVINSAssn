@@ -1,0 +1,71 @@
+.logoImg{
+	width :100px !important;
+}
+
+.navbar > div > ul > li > a{
+	color : black !important;
+	text-decoration :none !important;
+}
+
+.paddingL5{
+	padding-left :5px !important;
+}
+.paddingR5{
+	padding-right :5px !important;
+}
+.paddingT5{
+	padding-top :5px !important;
+}
+.paddingB5{
+	padding-bottom :5px !important;
+}
+.padding5{
+	padding :5px !important;
+}
+u{
+	text-decoration-color: #ffc60c !important;
+}
+.btn-form{
+    background-color: #7c11e6 !important;   
+}
+.textcolorWhite{
+	color:white !important;
+}
+.onlyLink{
+	color: #000 !important;
+    text-decoration: underline !important;
+}
+.imgDim{
+    width: 800px !important;
+    height: 350px !important;
+	
+}
+.navCenter{
+	    position: relative !important;
+    left: 135px;
+}
+.textCenter{
+	text-align: center !important;
+}
+.marginBottom5{
+	margin-bottom : 5px !important;
+}
+.marginLeft-135{
+	margin-left: -135px !important;
+}
+.floatR{
+	float: right !important;
+}
+.floatL{
+	float: left !important;
+}
+.overflowXhiddden{
+    overflow-x: hidden;
+}
+h5{
+	word-spacing: 5px !important;
+	font-size : 16px !important;
+}
+.liststylenone > ul > li{
+	list-style-type:none !important;
+}
